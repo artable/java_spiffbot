@@ -3,19 +3,16 @@
 
 This is the bare bones of a slack bot which I am writing for my workplace. We do a flavor of telemarketing. An important part of our culture is congratulating and keeping track of our coworkers successes. This bot will aid leadership and team individuals in doing that.
 
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=TM4K5MwKZZg)
 
 # Development Environment
 
-VS Code
-Java (and several built in libraries)
-Bolt-Jetty
-Maven
-Ngrok tunnel
-Slack client
+- VS Code
+- Java (and several built in libraries)
+- Bolt-Jetty
+- Maven
+- Ngrok tunnel
+- Slack client
 
 
 # Useful Websites
